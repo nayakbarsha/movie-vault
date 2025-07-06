@@ -2,6 +2,7 @@ function MovieCard({movie}){
     function onClickFavorite(){ 
         alert("clicked");
     }
+    
     return(
             <div className="movie-card">
                 <div className="movie-poster">
